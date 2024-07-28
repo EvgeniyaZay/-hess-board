@@ -1,0 +1,28 @@
+table {
+	border-collapse: separate;
+	width: 1000px;
+	height: 1000px;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+
+}
+
+.block {
+    height: 100px;
+    width: 100px;
+}
+
+.block_black {
+    background-color: black;
+}
+
+.block_white {
+    background-color: white;
+}
+
